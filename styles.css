@@ -16,7 +16,7 @@
 
 body {
   margin: 0;
-    background-color: #000;
+    background-color: #ffffff;
 }
 
 /* Disable ugly boxes around images in IE10 */
@@ -1052,7 +1052,7 @@ form {
 		  }
 	}
 body {
-  background-color: #fff;
+  background-color: #000;
 }
 
 .parent-wrapper {
